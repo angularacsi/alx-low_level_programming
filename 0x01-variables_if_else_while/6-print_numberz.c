@@ -9,8 +9,8 @@ int main(void)
 {
 int c;
 
-for (c = 0; c < 26; ++c)
-putchar('a' + c);
+for (i = 0; i <= 9; ++i)
+putchar('0' + i);
 
 putchar('\n');
 
