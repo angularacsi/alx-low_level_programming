@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - entry
+ * main - entry point
  *
- * The code to print all lower cases
+ * Return: Always 0 (success)
  */
 int main(void)
 {
