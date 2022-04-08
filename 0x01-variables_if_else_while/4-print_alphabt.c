@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *  
+* main - entry point
+*  
 * Description: Print lowercase alphabet excluding e and q
 * Return: 0
- */
+*/
 int main(void)
 {
 char c;
