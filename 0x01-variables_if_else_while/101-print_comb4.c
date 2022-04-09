@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - entry point Prints all possible combinations of three different digits
- *
- * return: Always 0
- */
+* main - entry point Prints all possible combinations of three different digit
+*    ranging from 0-99, separated by a comma followed by a space.
+*
+* return: Always 0
+*/
 int main(void)
 {
 int digit1, digit2, digit3;
