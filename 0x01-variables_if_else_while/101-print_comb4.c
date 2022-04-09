@@ -4,7 +4,7 @@
 * main - entry point Prints all possible combinations of three different digit
 *    ranging from 0-99, separated by a comma followed by a space.
 *
-* return: Always 0
+* Return: Always 0
 */
 int main(void)
 {
