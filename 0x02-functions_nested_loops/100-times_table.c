@@ -3,7 +3,7 @@
 
 /**
  * print_times_table - Prints the times table of the input,
- *                     starting with 0.
+ * @n: the number to start counting from n to 98
  *  The value of the times table to be printed.
  */
 void print_times_table(int n)
